@@ -1,5 +1,6 @@
 {
-  "name": "learn-starter",
+  "name": "psite",
+  "description": "elynn's personal site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
