@@ -27,9 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          I'm a product manager at Quora! I graduated from The University of Texas
-          at Austin in 2015 with an MS and BS in Computer Science. Learn more about
-          me and what I love to do by reading my&nbsp;
+          I'm a Product Manager at Opendoor! Prior to joining Opendoor, I was a Product Manager at Quora.
+          I graduated from The University of Texas at Austin in 2015 with an MS and BS in Computer Science.
+          Learn more about me and what I love to do by reading my&nbsp;
           <a href="https://www.quora.com/profile/Elynn-Lee">
             Quora answers.
           </a>
