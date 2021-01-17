@@ -1,5 +1,5 @@
-const ghPages = process.env.DEPLOY_TARGET === 'gh-pages';
+const isProd = process.env.NODE_ENV === 'production'
 
 module.exports = {
-  assetPrefix: ghPages ? '/elynnlee.github.io/psite' : ''
+  assetPrefix: isProd ? 'https://elynnlee.com' : '',
 }
