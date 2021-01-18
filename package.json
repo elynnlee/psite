@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && touch out/CNAME && echo \"elynnlee.com\" >> out/CNAME",
+    "prod": " next start",
+    "build": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"elynnlee.com\" >> out/CNAME",
     "start": "next start"
   },
   "dependencies": {
