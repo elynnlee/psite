@@ -10,10 +10,10 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          I'm currently a Product Manager at Opendoor.
+          I'm currently a Product Manager at Figma.
         </p>
         <p>
-          Previously, I was at Quora as a PM and I've interned at Facebook,
+          Previously, I was at Opendoor and Quora as a PM, and I've interned at Facebook,
           Amazon, and Google as a Software Engineering Intern.
            I graduated from The University of Texas at Austin in 2015
            with an MS and BS in Computer Science.
